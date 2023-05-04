@@ -1,0 +1,154 @@
+{
+  "users": [
+    {
+      "uname": "vedant",
+      "uaddress": "panchal vedant ",
+      "umobile": 7600303903,
+      "uemail": "vedant@1gmail.com",
+      "ugender": "male",
+      "ucity": "Rajkot",
+      "ucheck": true,
+      "id": 3
+    },
+    {
+      "uaddress": "ssssss",
+      "uname": "sssssssss",
+      "umobile": 2222222222,
+      "uemail": "yakshitbose@gmail.com",
+      "ugender": "male",
+      "ucity": "Rajkot",
+      "ucheck": true,
+      "id": 4
+    },
+    {
+      "uname": "Ashish M01",
+      "uaddress": "xxxxxxxxx01",
+      "umobile": 2222222222,
+      "uemail": "xk@k.com",
+      "ugender": "female",
+      "ucity": "Ahmedabad",
+      "ucheck": true,
+      "id": 5
+    },
+    {
+      "uname": "Ashish M",
+      "uaddress": "ddddddddd",
+      "umobile": 2222222222,
+      "uemail": "j@k.com",
+      "ugender": "male",
+      "ucity": "Surat",
+      "ucheck": true,
+      "id": 6
+    },
+    {
+      "uname": "Panchal veadnt",
+      "uaddress": "ranip ",
+      "umobile": 888888888,
+      "uemail": "nun@nun.com",
+      "ugender": "male",
+      "ucity": "Ahmedabad",
+      "ucheck": true,
+      "id": 7
+    },
+    {
+      "uname": "bai son",
+      "uaddress": "nndnn",
+      "umobile": "9494949449",
+      "uemail": "n@nnjd.com",
+      "ugender": "male",
+      "ucity": "Ahmedabad",
+      "ucheck": true,
+      "id": 87
+    },
+    {
+      "uname": "lakshman bhai",
+      "uaddress": "hello nager02",
+      "umobile": "2222222222",
+      "uemail": "dj@j.com",
+      "ugender": "female",
+      "ucity": "Ahmedabad",
+      "ucheck": true,
+      "id": 12
+    },
+    {
+      "uname": "Manjite",
+      "uaddress": "near by me",
+      "umobile": "0202020209",
+      "uemail": "dj@j.com",
+      "ugender": "female",
+      "ucity": "Ahmedabad",
+      "ucheck": true,
+      "id": 91
+    },
+    {
+      "uname": "RAmding",
+      "uaddress": "ram sing",
+      "umobile": "0648472990",
+      "uemail": "dj@j.com",
+      "ugender": "female",
+      "ucity": "Ahmedabad",
+      "ucheck": true,
+      "id": 43
+    },
+    {
+      "uname": "mitest bhai02",
+      "uaddress": "hello mitash",
+      "umobile": "4569871230",
+      "uemail": "kl@lc.com",
+      "ugender": "female",
+      "ucity": "Ahmedabad",
+      "ucheck": true,
+      "id": 73
+    },
+    {
+      "uname": "ram bhai",
+      "uaddress": "sssssssss",
+      "umobile": "1425638948",
+      "uemail": "s@s.com",
+      "ugender": "female",
+      "ucity": "Ahmedabad",
+      "ucheck": true,
+      "id": 88
+    },
+    {
+      "uname": "ram bhai",
+      "uaddress": "dddddddddd",
+      "umobile": "9924490483",
+      "uemail": "dj@j.com",
+      "ugender": "female",
+      "ucity": "Ahmedabad",
+      "ucheck": true,
+      "id": 11
+    },
+    {
+      "uname": "ram bhai",
+      "uaddress": "ddddddd",
+      "umobile": "9924490483",
+      "uemail": "dj@j.com",
+      "ugender": "female",
+      "ucity": "Ahmedabad",
+      "ucheck": true,
+      "id": 98
+    },
+    {
+      "uname": "ram bhai",
+      "uaddress": "ddddddddd",
+      "umobile": "9924490483",
+      "uemail": "dj@j.com",
+      "ugender": "female",
+      "ucity": "Ahmedabad",
+      "ucheck": true,
+      "id": 13
+    },
+    {
+      "uname": "sss",
+      "uaddress": "ddd",
+      "umobile": "9924490483",
+      "uemail": "dj@j.com",
+      "ugender": "female",
+      "ucity": "Rajkot",
+      "ucheck": true,
+      "id": 15
+    }
+  ]
+}

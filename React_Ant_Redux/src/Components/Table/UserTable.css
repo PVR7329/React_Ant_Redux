@@ -1,0 +1,57 @@
+     .tbl_wrap {
+         width: 95%;
+         margin: 9% auto;
+     }
+
+     .tblheading_top {
+         padding: 10px;
+         border-radius: 10px;
+         border: 1px solid var(--white);
+         display: flex;
+         justify-content: space-between;
+         align-items: center;
+         margin-bottom: 20px;
+     }
+
+     .tblheading_top h1 {
+         color: var(--white);
+     }
+
+     .SearchbarCls {
+         padding: 8px;
+         border: 1px solid var(--white);
+         outline: none;
+         background: transparent;
+         width: 200%;
+         color: var(--white);
+         font-size: 15px;
+     }
+
+     .SearchbarCls::placeholder {
+         font-size: 15px;
+         padding-left: 5%;
+         color: gray;
+     }
+
+     .ant-table tbody {
+         background: var(--primary);
+         color: var(--white);
+     }
+
+     .ant-table tbody tr:hover {
+         color: black;
+     }
+
+      .ant-pagination-item,
+     .ant-pagination-options-quick-jumper input {
+       color: red !important;
+     } 
+
+
+     .ant-pagination-item .ant-pagination-item-2L:active{
+        color: red !important; 
+     }
+
+     .ant-pagination-item {
+         color: rgb(255, 72, 0) !important;
+     }

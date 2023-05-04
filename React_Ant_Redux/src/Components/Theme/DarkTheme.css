@@ -1,0 +1,6 @@
+.dark_wrap .dark_main{
+background: var(--tblbgcolor);
+padding: 5px 7px;
+cursor: pointer;
+border-radius: 50%;
+}

@@ -1,0 +1,81 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  outline: none;
+}
+
+.darktheme {
+  --primary: #131111;
+  --tblbgcolor: #2B2B2B;
+  --frmbg: #2B2B2B;
+  --bgfrm: #202020;
+  --white: #fff;
+  --fontcolor: #131111;
+  --thbgcolor: #201e1e;
+  --troddcolor: #414141;
+
+}
+
+.ligththeme {
+  --primary: #ffffff;
+  --tblbgcolor: #1B2430;
+  --frmbg: #f0f3f7;
+  --bgfrm: #53614e;
+  --white: #000;
+  --fontcolor: #eee7e7;
+  --thbgcolor: #eee7e7;
+  --troddcolor: #122131;
+}
+
+.dark_wrap {
+  position: absolute;
+  right: 50px;
+  top: 50px;
+}
+
+.main_wrap {
+  overflow: hidden;
+  height: 100vh;
+  background: var(--primary);
+}
+
+.btn_wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+}
+
+.btn {
+  border: none;
+  width: 100%;
+  padding: 10px;
+  color: var(--fontcolor);
+  font-size: 18px;
+  border: 1px solid #555;
+  /* background:#205295; */
+  background: transparent;
+  letter-spacing: 2px;
+  cursor: pointer;
+  position: relative;
+}
+
+.ripple {
+  background-position: center;
+  transition: background 0.8s
+}
+
+.ripple:hover {
+  background: #2B2B2B radial-gradient(circle, transparent 1%, #2B2B2B 1%)center/15000%;
+}
+
+/* .ripple:nth-child(2):hover{
+  background:#2B2B2B radial-gradient(circle,transparent 1%,#2B2B2B 1%)center/15000%;
+} */
+.ripple:active,
+.ripple:nth-child(2):active {
+  background-color: #7E7474;
+  background-size: 100%;
+  transition: background 0s;
+}

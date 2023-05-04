@@ -1,0 +1,86 @@
+.frm_modal{
+    background: rgba(7, 7, 7, 0.411);
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+    height: 100vh;
+    overflow-x: auto;
+}
+
+.frm_wrap{
+    border: 1px solid var(--white);
+    border-radius: 10px;
+    background: var(--primary);
+    width: 430px;
+    margin: 5% auto;
+    padding: 25px;
+    position: relative;
+}
+
+.frm_wrap h1{
+    text-align: center;
+    color: var(--white);
+}
+.frm_control{
+    position: relative;
+    margin: 10px 0;
+}
+.frm_control label{margin-right: 6px;color: var(--fontcolor);}
+.frm_control label sup{color: rgb(248, 21, 21);}
+.frm_control small{color: rgb(252, 18, 18);display: block;}
+.frm_control .radiobtn{margin-right: 10px;}
+.frm_control .inputbox{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #555;
+    background-color: transparent;
+    outline: none; 
+    font-family: inherit;
+    color: var(--fontcolor);
+}
+.frm_wrap .close{
+    position: absolute;
+    right: 20px;
+    cursor: pointer;
+    border-radius: 50px;
+    padding: 6px 8px;
+}
+.frm_wrap .close:hover{ background-color: #292925;}
+
+
+
+
+
+
+
+.FromBtnDiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.Fbtn{
+    padding: 2px;
+    width: 100%;
+    height: 40px;
+}
+
+.Fclose{
+    background: #292925;
+    padding: 2px;
+    width: 25px;
+    height: 25px;
+}
+
+.FCloseDiv{
+    text-align: end;
+}
+.Tbox{
+    color: var(--white);
+}
+
+.ant-form-item-label label{
+    color:var(--white) !important;
+    font-size: 16px;
+    font-weight: bold;
+  }

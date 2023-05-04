@@ -1,0 +1,22 @@
+{
+    "Notdatafound": "Not data found",
+    "Id":"Id",
+    "Name":"Full Name",
+    "Address":"Address",
+   "Mobile":"Mobile",
+   "Email":"Email",
+   "City":"City",
+   "Gender":"Gender",
+   "Resume":"Resume",
+   "PName":"E,g Mital Donga",
+   "PAddress":"E,g Naroda gaam main road, 23.",
+   "PMobile":"E,g 1234567890",
+   "PEmail":"E,g mital.dudhagara@gmal.com",
+   "Male":"Male",
+   "Female":"Female",
+   "Select":"Selects",
+   "RName":"Registration",
+   "RUpdate":"Update Form"
+
+  }
+  

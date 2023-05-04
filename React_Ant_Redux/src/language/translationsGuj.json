@@ -1,0 +1,20 @@
+{
+    "Notdatafound": "ડેટા મળ્યો નથી",
+    "Id": "આઈડી",
+    "Name": "નામ",
+    "Address": "સરનામું",
+    "Mobile": "મોબાઇલ",
+    "Email": "ઇમેલ",
+    "City": "શહેર",
+    "Gender": "જાતિ",
+    "Resume":"બાયો ડેટા",
+    "PName": "ઇ,જી મિતલ દોંગા",
+    "PAddress": "ઇ,જી નરોડા ગામ મુખ્ય માર્ગ, 23.",
+    "PMobile": "ઇ,જી ૧૨૩૪૫૬૭૮૯૦",
+    "PEmail": "ઇ,જી mital.dudhagara@gmal.com",
+    "Male": "પુરુષ",
+    "Female": "સ્ત્રી",
+    "Select":"પસંદ કરો",
+    "RName":"નોંધણી પત્રક",
+    "RUpdate":"અપડેટ ફોર્મ"
+}
